@@ -2,17 +2,17 @@
 
 ## Presentazione del Progetto 🌟
 
-Benvenuti nel progetto BBNF, un sito ispirato alla cultura e passione del Body Building Natural Federation. La nostra missione è creare una piattaforma dedicata a tutti gli appassionati di body building naturale, fornendo risorse, informazioni e una comunità online.
+Benvenuti nel progetto BBFN, un sito ispirato alla cultura e passione del Body Building Natural Federation. La nostra missione è creare una piattaforma dedicata a tutti gli appassionati di body building naturale, fornendo risorse, informazioni e una comunità online.
 
 Mi chiamo [Serena] 👋, e questa iniziativa nasce dalla mia profonda passione per il body building naturale e dalla volontà di creare uno spazio online dedicato a questa cultura.
 
 ## Obiettivo del Progetto 🚀
 
-Considero il progetto BBNF una sfida personale e professionale che mira a migliorare le mie competenze nello sviluppo web. Attraverso questo progetto, cerco di ampliare le mie conoscenze in HTML, CSS, JavaScript, scss, node.js mongoDB, mongoose e express.js Bootstrap e React. Oltre a ciò, l'obiettivo è offrire un'esperienza coinvolgente e informativa agli utenti interessati al body building naturale.
+Considero il progetto BBFN una sfida personale e professionale che mira a migliorare le mie competenze nello sviluppo web. Attraverso questo progetto, cerco di ampliare le mie conoscenze in HTML, CSS, JavaScript, scss, node.js mongoDB, mongoose e express.js Bootstrap e React. Oltre a ciò, l'obiettivo è offrire un'esperienza coinvolgente e informativa agli utenti interessati al body building naturale.
 
 ## Tecnologie Utilizzate 💻
 
-Il progetto BBNF sarà sviluppato utilizzando le seguenti tecnologie:
+Il progetto BBFN sarà sviluppato utilizzando le seguenti tecnologie:
 
 - HTML per la struttura della pagina 🏗
 - CSS per lo stile e la presentazione 🎨
